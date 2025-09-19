@@ -1,0 +1,136 @@
+﻿IQ,Interest,Brain,Career
+5,Logical,Left,Software Engineer
+4,Logical,Left,Data Analyst
+3,Logical,Left,System Administrator
+2,Logical,Left,Lab Technician
+1,Logical,Left,Technical Support
+5,Logical,Right,Startup Founder
+4,Logical,Right,Entrepreneur
+3,Logical,Right,Product Manager
+2,Logical,Right,Operations Analyst
+1,Logical,Right,IT Support
+5,Creative,Left,UX Designer
+4,Creative,Left,Interior Designer
+3,Creative,Left,Illustrator
+2,Creative,Left,Craft Artist
+1,Creative,Left,Art Teacher
+5,Creative,Right,Graphic Designer
+4,Creative,Right,Animator
+3,Creative,Right,Video Editor
+2,Creative,Right,Content Creator
+1,Creative,Right,Social Media Manager
+5,Social,Left,Public Relations Officer
+4,Social,Left,Social Worker
+3,Social,Left,HR Executive
+2,Social,Left,Customer Service Rep
+1,Social,Left,Receptionist
+5,Social,Right,Psychologist
+4,Social,Right,Teacher
+3,Social,Right,Counselor
+2,Social,Right,Event Manager
+1,Social,Right,Community Organizer
+5,Practical,Left,Civil Engineer
+4,Practical,Left,Electrician
+3,Practical,Left,Mechanic
+2,Practical,Left,Technician
+1,Practical,Left,Plumber
+5,Practical,Right,Chef
+4,Practical,Right,Fashion Designer
+3,Practical,Right,Makeup Artist
+2,Practical,Right,Photographer
+1,Practical,Right,Hair Stylist
+5,Analytical,Left,Statistician
+4,Analytical,Left,Economist
+3,Analytical,Left,Financial Analyst
+2,Analytical,Left,Auditor
+1,Analytical,Left,Bookkeeper
+5,Analytical,Right,Market Researcher
+4,Analytical,Right,Data Journalist
+3,Analytical,Right,Business Analyst
+2,Analytical,Right,Investment Advisor
+1,Analytical,Right,Survey Designer
+5,Logical,Left,AI Engineer
+4,Logical,Left,Cybersecurity Analyst
+3,Logical,Left,Database Administrator
+2,Logical,Left,Network Engineer
+1,Logical,Left,Computer Operator
+5,Logical,Right,Tech Entrepreneur
+4,Logical,Right,Innovation Consultant
+3,Logical,Right,Digital Strategist
+2,Logical,Right,Systems Analyst
+1,Logical,Right,IT Technician
+5,Creative,Left,Game Designer
+4,Creative,Left,Storyboard Artist
+3,Creative,Left,Set Designer
+2,Creative,Left,Costume Designer
+1,Creative,Left,Art Assistant
+5,Creative,Right,YouTuber
+4,Creative,Right,Influencer
+3,Creative,Right,Podcaster
+2,Creative,Right,Brand Designer
+1,Creative,Right,Community Manager
+5,Social,Left,NGO Coordinator
+4,Social,Left,Political Campaigner
+3,Social,Left,HR Manager
+2,Social,Left,Call Center Agent
+1,Social,Left,Front Desk Executive
+5,Social,Right,Life Coach
+4,Social,Right,Special Educator
+3,Social,Right,Speech Therapist
+2,Social,Right,Event Planner
+1,Social,Right,Volunteer Coordinator
+5,Practical,Left,Construction Manager
+4,Practical,Left,Automobile Engineer
+3,Practical,Left,Tool Designer
+2,Practical,Left,Machine Operator
+1,Practical,Left,Field Technician
+5,Practical,Right,Baker
+4,Practical,Right,Jewelry Designer
+3,Practical,Right,Wedding Planner
+2,Practical,Right,Florist
+1,Practical,Right,Tailor
+5,Analytical,Left,Research Scientist
+4,Analytical,Left,Policy Analyst
+3,Analytical,Left,Actuary
+2,Analytical,Left,Budget Analyst
+1,Analytical,Left,Accounts Clerk
+5,Analytical,Right,Trend Analyst
+4,Analytical,Right,Consumer Psychologist
+3,Analytical,Right,Insight Consultant
+2,Analytical,Right,Business Planner
+1,Analytical,Right,Data Entry Operator
+5,Logical,Left,Robotics Engineer
+4,Logical,Left,Embedded Systems Developer
+3,Logical,Left,Software Tester
+2,Logical,Left,IT Trainer
+1,Logical,Left,Tech Assistant
+5,Logical,Right,Innovation Coach
+4,Logical,Right,Startup Mentor
+3,Logical,Right,Digital Product Designer
+2,Logical,Right,Tech Blogger
+1,Logical,Right,Online Tutor
+5,Creative,Left,Creative Director
+4,Creative,Left,Art Curator
+3,Creative,Left,Packaging Designer
+2,Creative,Left,Visual Merchandiser
+1,Creative,Left,Design Assistant
+5,Creative,Right,Motion Graphics Artist
+4,Creative,Right,Voice Over Artist
+3,Creative,Right,Scriptwriter
+2,Creative,Right,Brand Strategist
+1,Creative,Right,Online Creator
+5,Social,Left,NGO Strategist
+4,Social,Left,Fundraiser
+3,Social,Left,HR Consultant
+2,Social,Left,Support Executive
+1,Social,Left,Greeter
+5,Social,Right,Therapist
+4,Social,Right,Trainer
+3,Social,Right,Workshop Facilitator
+2,Social,Right,Event Host
+1,Social,Right,Caregiver
+5,Practical,Left,Site Engineer
+4,Practical,Left,Maintenance Engineer
+3,Practical,Left,Tool Technician
+2,Practical,Left,Assembly Worker
+1,Practical,Left,Helper
